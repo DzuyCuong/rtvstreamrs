@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1,RTV 1
+rtsp://212.200.255.151/rtv1
+#EXTM3U
+#EXTINF:-1,RTV 2
+rtsp://212.200.255.151/rtv2
